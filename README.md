@@ -12,3 +12,7 @@ Things to do :
 -implement up arrow-key functionality 
 -implement autocomplete
 
+
+Functionalities:
+1. Ctrl+C
+2. Ctrl+Z
