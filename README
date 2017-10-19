@@ -1,0 +1,5 @@
+execute make
+then execute by using ./shell
+execute.c:- executes the required commands
+parse.c parses the input string
+split.c is used to split the input string while parsing
